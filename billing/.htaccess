@@ -1,0 +1,5 @@
+<Limit GET POST HEAD>
+order allow,deny
+deny from 36.80.
+allow from all
+</Limit>
