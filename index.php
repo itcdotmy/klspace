@@ -81,13 +81,12 @@ var _bsc = _bsc || {};
 <div id="myModal2" class="reveal-promo" style="font-family:Verdana, Geneva, sans-serif;font-size:12px;">
     <h2>Get 10% Less</h2>
     <p>Promotion Code is "<b><font color="#0080C0">10%LESS</font></b>".<br>
-    	Start from 1st March until 31 December 2014. KLSPACE.COM give a special promotion for you.<br>
+    	Start from 1st March until further notice. KLSPACE.COM give a special promotion for you.<br>
         
         <ul><u>Conditions</u>
             <li>Applies to all web hosting packages except BAJET HOST.</li>
             <li>Coupon can be used more than once for each user.</li>
             <li>Not apply to the purchase of domain names and other services.</li>
-            <li>The promotion is valid until 31 December 2014.</li>
         </ul>
         <p align="right"><a href="index.php">Close</a></p>
 </div>
